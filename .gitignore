@@ -1,0 +1,7 @@
+# Ignore video files
+*.mkv
+*.mp4
+
+# Ignore virtualenv directory and notebook checkpoints
+env/
+.ipynb_checkpoints/
