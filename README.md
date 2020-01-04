@@ -1,9 +1,11 @@
 Text Recogniton in News Videos using EAST text detection and CRNN recognition
 
+Things done:
+1) Completed text-detection part (EAST )
+2) Completed text-recogntion part (CRNN) 
+
 Things left to do:
-1) Complete text-recognition task
-2) Add text datagenerator script for people looking to do trainsfer learning on CRNN model.
+1) Add text datagenerator script for people looking to do transfer learning on CRNN model.
+2) Try training part, if possible with Mysynth dataset (10 Gb (-_-)) and our custom data.
+3) Make a viable web app, using flask and also put it all on docker!.
 
-Please, find completed projected at google-drive link: Will complete this project fully in a week's time.
-
-https://drive.google.com/open?id=1vI4a7FMHOXK5pqTi6dU04scW8Y_5fIr9
