@@ -9,3 +9,6 @@ Things left to do:
 2) Try training part, if possible with Mysynth dataset (10 Gb (-_-)) and our custom data.
 3) Make a viable web app, using flask and also put it all on docker!.
 
+
+### <----- Installation of Tensorflow 1.8.0 ------> 
+Please follow the instructions at [Install older versions of tensorflow not available directly through pip](https://stackoverflow.com/a/41942396/8030107)
